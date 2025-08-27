@@ -49,6 +49,3 @@ Optionally extend the API or document it with [Swagger](https://swagger.io).
 - [API Design Best Practices](https://blog.stoplight.io/crud-api-design?_ga=2.223919515.1813989671.1674077556-1488117179.1674077556)
 - [API Endpoint Best Practices](https://www.telerik.com/blogs/7-tips-building-good-web-api)
 - The file [mlip-api-lab-collection.json](./mlip-api-lab-collection.json) has a sample request to test calls to your API with Postman.
-=======
-# mlip
->>>>>>> c3fd7600acaa192ea74159f2f274fcf57d62910d
