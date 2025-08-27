@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lab 1: Calling, Building, and Securing APIs
 In homework I1 you will use third-party LLM APIs, and in the group project you will develop your own APIs. In this lab you will experiment with both: connecting to one such LLM's (Gemini) API, and providing your own API endpoint. 
 To receive credit for this lab, show your work to the TA during recitation.
@@ -49,3 +50,6 @@ Optionally extend the API or document it with [Swagger](https://swagger.io).
 - [API Design Best Practices](https://blog.stoplight.io/crud-api-design?_ga=2.223919515.1813989671.1674077556-1488117179.1674077556)
 - [API Endpoint Best Practices](https://www.telerik.com/blogs/7-tips-building-good-web-api)
 - The file [mlip-api-lab-collection.json](./mlip-api-lab-collection.json) has a sample request to test calls to your API with Postman.
+=======
+# mlip
+>>>>>>> c3fd7600acaa192ea74159f2f274fcf57d62910d
